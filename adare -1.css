@@ -1,0 +1,92 @@
+html{height: 100%;}
+
+body{background-color:black;
+
+    background-image:url(food.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+.container{margin-left: auto;
+    margin-right: auto;
+    width: 887px;
+height: 127px;}
+
+header{ background-color: rgba(255, 255, 0, 0.226);
+height: 187px;
+
+text-align: center;
+}
+
+
+nav{background-color:rgba(0, 0, 255, 0.041);
+height: 12px;
+width: 1388px;
+padding-top:px;
+
+}
+main{
+    background-color:red;
+height: 27px;
+width: 1380px;
+text-align: center;
+padding-top: 35px;
+
+margin-top: 4px;
+padding:left 240px;
+padding: right 240px ;
+}
+footer{background-color:black;
+    
+    width: 1300px;
+    padding-inline: 45px;
+    padding-bottom: px;8
+    ;text-align: center;
+    padding-top: 8px;
+
+padding-right: 260px;}
+    h1{font-size: 84px;
+    color:white ;
+font-family: Arial, Helvetica, sans-serif;
+color: white ;
+padding-top: 75px;
+;
+
+}
+
+h3{font-size: 18px;
+    color:white ;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+color: white;
+  
+}a{color: white ;
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+font-family: Arial, Helvetica, sans-serif;
+}
+nav {text-decoration:none;
+    color:white;
+
+    font-size: 12px;
+
+    padding-left: 29px;
+    padding-bottom: 75px;
+    text-align:center;
+
+} footer p {color:rgba(255, 255, 255, 0.884);
+text-align: center;
+color: bisque;
+padding-inline: 45px;
+color: aqua;
+}.maps{padding-bottom: 6088%;}
+.video-container{padding-left: 200px;
+
+
+    
+}
